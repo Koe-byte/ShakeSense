@@ -41,15 +41,18 @@ Ready to monitor some quakes? Follow these steps:
 4. **Interact**: Follow the console menu to perform CRUD operations. Add, view, update, delete – your call! 📝
 
 ## 👤 Created by
-Dapoc, Romelie Joy M. - <a href="https://github.com/Melieee2" target="_blank">
+Dapoc, Romelie Joy M.
+<a href="https://github.com/Melieee2" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="Romelie's GitHub">
-        </a>
-Ibon, Nash R. - <a href="https://github.com/Koe-byte" target="_blank">
+</a>
+Ibon, Nash R.
+<a href="https://github.com/Koe-byte" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="Nash's GitHub">
-        </a>
-Lopez, Princess Venice M. - <a href="https://github.com/jeisquaredd" target="_blank">
+</a>
+Lopez, Princess Venice M.
+<a href="https://github.com/jeisquaredd" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=yellow" alt="Venice's GitHub">
-        </a>
+</a>
 
 
 ---
