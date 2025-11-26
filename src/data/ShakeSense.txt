@@ -1,0 +1,51 @@
+Welcome to ShakeSense - Earthquake Monitoring System
+
+--- ShakeSense Menu ---
+1. Create Earthquake Event
+2. Read/View Earthquake Events
+3. Update Earthquake Event
+4. Delete Earthquake Event
+5. Exit
+Enter your choice: 1
+
+--- Create New Earthquake Event ---
+Enter location: Biringan City
+Enter magnitude: 6.9
+Enter date (YYYY-MM-DD): 2023-12-15
+Event created successfully!
+ID: 1, Location: Biringan City, Magnitude: 6.9, Date: 2023-12-15
+Alert: Major earthquake detected! Evacuate immediately and seek shelter.
+
+--- ShakeSense Menu ---
+1. Create Earthquake Event
+2. Read/View Earthquake Events
+3. Update Earthquake Event
+4. Delete Earthquake Event
+5. Exit
+Enter your choice: 1
+
+--- Create New Earthquake Event ---
+Enter location: Pag-asa City
+Enter magnitude: 9.2
+Enter date (YYYY-MM-DD): 2022-04-25
+Event created successfully!
+ID: 2, Location: Pag-asa City, Magnitude: 9.2, Date: 2022-04-25
+Alert: Major earthquake detected! Evacuate immediately and seek shelter.
+
+--- ShakeSense Menu ---
+1. Create Earthquake Event
+2. Read/View Earthquake Events
+3. Update Earthquake Event
+4. Delete Earthquake Event
+5. Exit
+Enter your choice: 2
+
+--- View Earthquake Events ---
+1. View all events
+2. Search by ID
+Enter choice: 1
+ID: 1, Location: Biringan City, Magnitude: 6.9, Date: 2023-12-15
+Alert: Major earthquake detected! Evacuate immediately and seek shelter.
+
+ID: 2, Location: Pag-asa City, Magnitude: 9.2, Date: 2022-04-25
+Alert: Major earthquake detected! Evacuate immediately and seek shelter.
