@@ -1,12 +1,3 @@
-<think>
-First, the user says: "XD Just use this and make it lively:" and then provides a basic README.md content for ShakeSense.
-
-
-## Enhancing README
-
-- The user provided a basic README.md for ShakeSense and asked to make it lively.
-</think># 🌍 ShakeSense: Earthquake Monitoring System 🔔
-
 ## 📖 Description
 ShakeSense is a thrilling Java console-based program that simulates an earthquake monitoring system! 🚀 It lets users record earthquake data, classify seismic events by magnitude, and display corresponding alert messages. With robust exception handling for invalid inputs, it ensures a smooth and reliable user experience. By blending creativity with functionality, ShakeSense brings the excitement of real-world systems to life through elegant OOP design. 💥
 
@@ -41,18 +32,7 @@ Ready to monitor some quakes? Follow these steps:
 4. **Interact**: Follow the console menu to perform CRUD operations. Add, view, update, delete – your call! 📝
 
 ## 👤 Created by
-Dapoc, Romelie Joy M.
-<a href="https://github.com/Melieee2" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=green" alt="Romelie's GitHub">
-</a>
-Ibon, Nash R.
-<a href="https://github.com/Koe-byte" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=blue" alt="Nash's GitHub">
-</a>
-Lopez, Princess Venice M.
-<a href="https://github.com/jeisquaredd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=yellow" alt="Venice's GitHub">
-</a>
+Romelie, Nash, and Venice
 
 
 ---
